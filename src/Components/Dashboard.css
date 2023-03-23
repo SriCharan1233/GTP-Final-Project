@@ -1,0 +1,32 @@
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+
+  .nav-link {
+    font-size: 1rem;
+  }
+}
+.logo {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.app-name {
+  font-weight: bold;
+  font-size: 1.5rem;
+}

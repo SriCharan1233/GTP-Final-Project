@@ -1,0 +1,39 @@
+footer {
+    border-top: 1px solid #dee2e6;
+    font-size: 14px;
+   
+  
+  }
+  
+  footer h5 {
+    font-weight: bold;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  footer ul li {
+    line-height: 1.5;
+  }
+  
+  footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    margin-bottom: 100px; 
+  }
+  
+  
